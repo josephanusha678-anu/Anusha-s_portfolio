@@ -2,7 +2,7 @@ import { useState } from "react";
 import { motion } from "framer-motion";
 import { FaArrowRight } from "react-icons/fa";
 
-import projectData from "../Data/projectdata";
+import projectData from "../Data/projectData";
 import ProjectModal from "./ProjectModal";
 
 export default function Projects() {
